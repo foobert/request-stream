@@ -1,5 +1,5 @@
 {
-    "name": "request-stream/request-stream",
+    "name": "foobert/request-stream",
     "description": "Stream and request for PHP 5.3",
     "keywords": ["request", "stream", "web request", "stream common"],
     "homepage": "http://github.com/ZhukV/RequestStream",
